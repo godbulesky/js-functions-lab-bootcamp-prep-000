@@ -4,15 +4,15 @@ function happyHolidays () {
   return "Happy holidays!"
 }
 
-function happyHolidayTo (name) {
+function happyHolidayTo(name) {
   return `Happy holidays, ${name}!`
 }
 
-function happyHolidayTo (holiday, name) {
+function happyHolidayTo(holiday, name) {
   return`It's ${holiday}, ${name}!`
 }
 
-function holodayCountdown (holiday, days) { 
+function holodayCountdown(holiday, days) { 
   return `It's ${days} days until ${holidays}!`
 }
 
