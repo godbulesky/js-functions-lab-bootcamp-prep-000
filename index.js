@@ -9,7 +9,7 @@ function happyHolidayTo (name) {
 }
 
 function happyHolidayTo (holiday, name) {
-  console.log (`It's ${holiday}, ${name}!`)
+  return`It's ${holiday}, ${name}!`
 }
 
 function holodayCountdown (holiday, days) { 
